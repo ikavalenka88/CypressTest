@@ -12,6 +12,7 @@ it.only('Using GET and FIND and Eq',() =>{
     cy.get('div').find('div').find('div').find('div').find('a').eq(0)
 })
 //Comment
+//Update
 
 // describe('Mobile phone replenishment', () =>{
 // it('Check min sum', () =>{
