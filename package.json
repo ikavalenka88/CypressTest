@@ -4,7 +4,6 @@
   "description": "cypress project for ikavalenka",
   "main": "index.js",
   "scripts": {
-    
     "cypress:open": "cypress open"
   },
   "keywords": [
@@ -17,7 +16,7 @@
   "author": "ikavalenka",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.13.0"
+    "cypress": "^12.15.0"
   },
   "dependencies": {
     "aggregate-error": "^3.1.0",
